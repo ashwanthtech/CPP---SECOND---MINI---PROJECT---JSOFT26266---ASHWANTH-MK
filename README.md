@@ -41,7 +41,7 @@ Roll No	Name	Initial Marks
 
 Note: Ashwanth’s marks are invalid, so the program automatically sets them to 0.
 
-Rahul’s marks are later updated from 35 to 45.
+Ammu’s marks are later updated from 35 to 45.
 
 📂 Project Structure
 
