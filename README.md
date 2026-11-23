@@ -62,7 +62,7 @@ Step 2: Run the program.
 
 📊 Expected Output
 
-Invalid marks for Meera, set to 0
+Invalid marks for Ashwanth, set to 0
 Student Details
 ------------------------
 101 | Anila | 82
