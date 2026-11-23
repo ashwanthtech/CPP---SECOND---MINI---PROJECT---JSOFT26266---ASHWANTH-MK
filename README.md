@@ -30,7 +30,7 @@ The program stores student details, validates marks, displays student informatio
 6. Marks Validation: Accepts marks only between 0 and 100. Invalid marks are automatically set to 0.
 7. Display Details: Displays all student information.
 8. Pass/Fail Checking: Students scoring 40 or above PASS; otherwise, they FAIL.
-9. Update Marks: Updates Rahul’s marks from 35 to 45.
+9. Update Marks: Updates Ammu’s marks from 35 to 45.
 
 💻 Student Information
 
@@ -39,7 +39,7 @@ Roll No	Name	Initial Marks
 102	Ammu	35
 103	Ashwanth 105
 
-Note: Meera’s marks are invalid, so the program automatically sets them to 0.
+Note: Ashwanth’s marks are invalid, so the program automatically sets them to 0.
 
 Rahul’s marks are later updated from 35 to 45.
 
@@ -65,14 +65,14 @@ Step 2: Run the program.
 Invalid marks for Meera, set to 0
 Student Details
 ------------------------
-101 | Asha | 82
-102 | Rahul | 35
-103 | Meera | 0
+101 | Anila | 82
+102 | Ammu | 35
+103 | Ashwanth | 0
 Student Results
 ------------------------
-Asha: PASS
-Rahul: PASS
-Meera: FAIL
+Anila: PASS
+Ammu: PASS
+Ashwanth: FAIL
 
 📚 Learning Outcome
 
